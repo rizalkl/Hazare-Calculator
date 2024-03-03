@@ -1,1 +1,2 @@
 # Hazare-Calculator
+Hazare is a Nepali card game. Players divide their hands of 13 cards into sets of 3, 3, 3 and 4 which are compared in a similar way to hands at Brag or Teen Patti. However, unlike these other games, Hazari is played for points, each card having a point value. The winner of each comparison collects the played cards, and scores their point value. Hazari means 1000 and the aim of the game is to accumulate a score of 1000 points or more. The app will calculate the scores for us so we can play. 
