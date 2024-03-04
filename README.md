@@ -11,6 +11,7 @@ Date: 03-01-2024
 
 Brief Description: A Streamlit-based web application designed to calculate scores for the Hazare card game.
 Purpose: To provide an easy-to-use interface for players to track scores in the Hazare game and determine the winner.
+
 2. Features
 
 Player Name Input: Users can enter the names of players.
@@ -19,6 +20,7 @@ Score Calculation: Calculates total scores, checks for invalid rounds, and deter
 Interactive Scoreboard: Displays total scores in a table format.
 Game Rules: An expandable section that outlines the rules of Hazare.
 Responsive Design: Adjusts layout based on the number of players.
+
 3. User Interface Design
 
 Layout: Two-column layout with score inputs on the left and game rules on the right.
@@ -28,11 +30,13 @@ Score Inputs: Text fields for each player's scores.
 Calculate Button: To trigger score calculation.
 Score Display: Dataframe/table to show the calculated scores.
 Game Rules: Expander on the right column with detailed game rules.
+
 4. Technology Stack
 
 Frontend: Streamlit
 Backend: Python
 Libraries: pandas for data manipulation, matplotlib for plotting.
+
 5. Implementation Details
 
 Functions:
@@ -41,6 +45,7 @@ validate_scores: For validating score inputs.
 plot_scores: For creating a bar chart of scores.
 Error Handling: User-friendly error messages for invalid inputs.
 Session State: To remember the state of the app (entered scores and player names).
+
 6. Future Enhancements
 
 Interactive Chart: Implementing Plotly or Altair for interactive score visualization.
