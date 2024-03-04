@@ -4,6 +4,7 @@ Hazare is a Nepali card game. Players divide their hands of 13 cards into sets o
 Title: Kushal's Hazare Calculator - Streamlit App Design Document
 
 Author: Kushal Rizal
+
 Date: 03-01-2024
 
 1. Overview
